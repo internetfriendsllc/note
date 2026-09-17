@@ -1,5 +1,7 @@
 Note is a single page notepad with a few essentials.
 
+Available on iOS: [https://apps.apple.com/us/app/note-widget/id6736500150](https://apps.apple.com/us/app/note-widget/id6736500150)
+
 - Widget support
 - System, serif, or mono fonts
 - Persistent keyboard
