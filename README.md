@@ -1,14 +1,14 @@
-Note is a single page note taking app with a few essential features. 
+Note is a single page notepad with a few essentials.
 
-It's completely offline, open source, and free forever.
+- Widget support
+- System, serif, or mono fonts
+- Persistent keyboard
+- Link support
+- Choose to insert text above or below by default
+- Undo and clear all actions
+- Natively share selected text
+- Fully offline
 
-Essentials:
-- 3 widget size support
-- System, Serif, and Mono font support
-- System share tray
-- Insert above or below by default
-- Undo
-- Clear
-- System light/dark mode
+What you write stays on your device. No cloud, no servers, no accounts. Just notes.
 
 Note was created by [Steve Crosby](https://stevecrosby.com) for [Internet Friends LLC](https://internetfriends.llc), a small software company based out of California.
